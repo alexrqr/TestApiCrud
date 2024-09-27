@@ -8,6 +8,4 @@
 </p>
 
 ## About Laravel
-
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The project has methods for testing the API with CRUD functionality and a relationship where a user can create a recipe or recipes. Additionally, the project includes tests for a simple CRUD.
